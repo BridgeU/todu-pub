@@ -41,9 +41,9 @@ functionality, add some unit tests - or something else.
 To-dü is a plain Rails app, using some jQuery and SASS/SCSS.
 
 To run it, you'll need Ruby 2.2.1 or higher, and the `bundler` gem installed.
-The app was built with Ruby 2.3.0, but you should be able to edit the
-`.ruby-version` file if you have a different version installed and are having
-problems.
+The app is set up to run with Ruby 2.5.1 using either `rbenv` or `rvm`, but you
+should be able to edit the `.ruby-version` file if you have a different version
+installed and are having problems.
 
 The app uses Sqlite so you shouldn't need any other database running.
 
